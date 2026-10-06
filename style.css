@@ -1,1 +1,51 @@
-gunfo
+body {
+    background-color:darkblue;
+    margin: 5px auto;
+    padding: 25px
+}
+
+.Naglowek {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: left;
+    color:white;
+}
+
+.Imie {
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+    margin-bottom: 0px;
+    border: 25px solid;
+    border-color:white;
+}
+
+.Pru {
+    background-color: white;
+    text-align: right;
+    font-size: 10px;
+    padding-top: 50px;
+    margin: 50px;
+    margin-top: 0px;
+}
+
+.Info {
+    background-color: darkblue;
+    border: 2px solid;
+    border-color:white;
+    padding: 10px;
+    color: white;
+}
+
+.Info ul {
+    background-color: white;
+    color: black;
+    margin: 2px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -5px;
+    padding: 5;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
